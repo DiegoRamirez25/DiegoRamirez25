@@ -75,6 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DiegoRamirez25/DiegoRamirez25/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DiegoRamirez25/DiegoRamirez25/snake.yml" alt="Snake animation" />
 
 ###
