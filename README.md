@@ -6,13 +6,13 @@
 
 ###
 
-## 👨‍💻 About Me
+## About Me
 
 <p align="center">
 Full Stack Developer & AI Engineer passionate about building scalable web applications with artificial intelligence integration. <br>
 Computer Science student at UNAM with experience in Python, JavaScript, Laravel, and Deep Learning. <br>
 Currently seeking opportunities to combine web development with AI to create innovative solutions. <br><br>
-📍 Mexico City | 🎓 UNAM | 💼 Open to Work (On-site/Hybrid)
+Mexico City | UNAM | Open to Work (On-site/Hybrid)
 </p>
 
 ###
@@ -28,7 +28,7 @@ Currently seeking opportunities to combine web development with AI to create inn
 
 ###
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -82,7 +82,7 @@ Currently seeking opportunities to combine web development with AI to create inn
 
 ###
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
