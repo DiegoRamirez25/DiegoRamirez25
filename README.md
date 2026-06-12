@@ -12,7 +12,7 @@
 Full Stack Developer & AI Engineer passionate about building scalable web applications with artificial intelligence integration. <br>
 Computer Science student at UNAM with experience in Python, JavaScript, Laravel, and Deep Learning. <br>
 Currently seeking opportunities to combine web development with AI to create innovative solutions. <br><br>
-📍 Mexico City | 🎓 UNAM | 💼 Open to Work (On-site/Hybrid)
+Mexico City | UNAM | Open to Work (On-site/Hybrid)
 </p>
 
 ###
