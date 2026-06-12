@@ -94,6 +94,6 @@ Mexico City | UNAM | Open to Work (On-site/Hybrid)
 
 ###
 
-<img src="https://raw.githubusercontent.com/DiegoRamirez25/DiegoRamirez25/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
