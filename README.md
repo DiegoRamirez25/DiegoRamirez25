@@ -1,3 +1,7 @@
+![Banner](https://raw.githubusercontent.com/DiegoRamirez25/DiegoRamirez25/main/Linkedin_Background.png)
+
+###
+
 <h2 align="center">Hi! My name is Diego <br>Full Stack Developer & AI Engineer from Mexico City</h2>
 
 ###
