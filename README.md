@@ -6,7 +6,7 @@
 
 ###
 
-## 👨‍💻 About Me
+## About Me
 
 <p align="center">
 Full Stack Developer & AI Engineer passionate about building scalable web applications with artificial intelligence integration. <br>
@@ -28,7 +28,7 @@ Mexico City | UNAM | Open to Work (On-site/Hybrid)
 
 ###
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -64,7 +64,7 @@ Mexico City | UNAM | Open to Work (On-site/Hybrid)
 
 ###
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://instagram.com/diegoramirez.dev" target="_blank">
